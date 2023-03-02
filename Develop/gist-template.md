@@ -58,3 +58,5 @@ Look-ahead and look-behind are not used in this regex expression.
 ## Author
 
  Vinícius Teixeira | [GitHub](https://github.com/Vinni99)
+
+This tutorial can be found at: <https://gist.github.com/e07abd8a0724749f6776c509db67ecd2.git>
